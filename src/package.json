@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Hope-IT-Works/playwright-template#readme",
   "devDependencies": {
     "@playwright/test": "^1.42.1",
-    "@types/node": "^22.0.0"
+    "@types/node": "^24.0.0"
   }
 }
